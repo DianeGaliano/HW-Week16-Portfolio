@@ -202,6 +202,7 @@ a.pure-button-primary {
 /* This is the class used for the main content headers (<h2>) */
 .content-head {
     font-weight: 400;
+    font-family: ink free;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin: 2em 0 1em;
@@ -215,6 +216,7 @@ a.pure-button-primary {
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
     color: #1f8dd6;
+    font-family: ink free;
 }
     .content-subhead i {
         margin-right: 7px;
