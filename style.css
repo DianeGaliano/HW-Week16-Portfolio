@@ -140,7 +140,7 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background-image: url("/assets/image/background.jpg");
+    background-image: url("/image/background.jpg");
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
